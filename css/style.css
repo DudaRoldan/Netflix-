@@ -274,3 +274,12 @@ div.login span{
 }
 
 /*PREGUNTAS*/
+
+.division{
+	border-top: solid #FFF;
+	align-items: center;
+}
+
+.division p{
+	padding-left: 300px;
+}
